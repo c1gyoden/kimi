@@ -38,6 +38,8 @@ for k,v in hibastat.items():
     if v > 1:
         print(f'{k}: {v}')
 
+evszam = int(input("6. feladat: Évszám: "))
+
 print('8. feladat: kimi.html')
 html = open('kimi.html', 'wt', encoding='utf-8')
 
