@@ -39,6 +39,14 @@ for k,v in hibastat.items():
         print(f'{k}: {v}')
 
 evszam = int(input("6. feladat: Évszám: "))
+versenyek = []
+for e in eredmenyek:
+    if evszam == int(e.datum.split('.')[0]) and e.celba == "I":
+        versenyek.append(e)
+if len(versenyek) != 0:
+    print(f'7. feladat: {len(versenyek)} versenyt fejezett be.')
+else:
+    print(f'7. feladat: Az adott évből nincs eredménye.')
 
 print('8. feladat: kimi.html')
 html = open('kimi.html', 'wt', encoding='utf-8')
