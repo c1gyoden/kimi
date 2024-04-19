@@ -19,3 +19,8 @@ for sor in fajl:
     eredmenyek.append(Kimi(sor[0], sor[1], sor[2], sor[3], sor[4], sor[5], sor[6], sor[7], sor[8]))
 
 print('3. feladat:', len(eredmenyek))
+
+print('4. feladat: Magyar Nagydíj helyezései')
+for e in eredmenyek:
+    if e.celba == "I" and e.nagydij == "Magyar Nagydíj":
+        print(f'{e.datum}.: {e.hely}. hely')
