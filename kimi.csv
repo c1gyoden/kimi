@@ -1,0 +1,310 @@
+﻿dátum;nagydíj;helyezés;befejezett_kör;pont;konstruktőr;Célba_ért;körhátrány;Hiba_oka
+2001.03.04;Ausztrál Nagydíj;6;58;1;Sauber;I;0;
+2001.03.18;Malajziai Nagydíj;;0;0;Sauber;N;;Hajtóműtengely
+2001.04.01;Brazil Nagydíj;;55;0;Sauber;N;;Kipördült
+2001.04.15;San Marinói Nagydíj;;17;0;Sauber;N;;Kormányzás
+2001.04.29;Spanyol Nagydíj;8;65;0;Sauber;I;0;
+2001.05.13;Osztrák Nagydíj;4;71;3;Sauber;I;0;
+2001.05.27;Monacói Nagydíj;10;73;0;Sauber;I;5;
+2001.06.10;Kanadai Nagydíj;4;69;3;Sauber;I;0;
+2001.06.24;Európai Nagydíj;10;66;0;Sauber;I;1;
+2001.07.01;Francia Nagydíj;7;71;0;Sauber;I;1;
+2001.07.15;Brit Nagydíj;5;59;2;Sauber;I;1;
+2001.07.29;Német Nagydíj;;16;0;Sauber;N;;Féltengely
+2001.08.19;Magyar Nagydíj;7;76;0;Sauber;I;1;
+2001.09.02;Belga Nagydíj;;0;0;Sauber;N;;Sebességváltó
+2001.09.16;Olasz Nagydíj;7;53;0;Sauber;I;0;
+2001.09.30;Egyesült Államok Nagydíja;;2;0;Sauber;N;;Hajtóműtengely
+2001.10.14;Japán Nagydíj;;5;0;Sauber;N;;Ütközés
+2002.03.03;Ausztrál Nagydíj;3;58;4;McLaren;I;0;
+2002.03.17;Malajziai Nagydíj;;24;0;McLaren;N;;Motor
+2002.03.31;Brazil Nagydíj;12;67;0;McLaren;N;;Keréktárcsa
+2002.04.14;San Marinói Nagydíj;;44;0;McLaren;N;;Kipufogó
+2002.04.28;Spanyol Nagydíj;;4;0;McLaren;N;;Hátsó szárny
+2002.05.12;Osztrák Nagydíj;;5;0;McLaren;N;;Motor
+2002.05.26;Monacói Nagydíj;;41;0;McLaren;N;;Ütközés
+2002.06.09;Kanadai Nagydíj;4;70;3;McLaren;I;0;
+2002.06.23;Európai Nagydíj;3;60;4;McLaren;I;0;
+2002.07.07;Brit Nagydíj;;44;0;McLaren;N;;Motor
+2002.07.21;Francia Nagydíj;2;72;6;McLaren;I;0;
+2002.07.28;Német Nagydíj;;59;0;McLaren;N;;Kipördült
+2002.08.18;Magyar Nagydíj;4;77;3;McLaren;I;0;
+2002.09.01;Belga Nagydíj;;35;0;McLaren;N;;Motor
+2002.09.15;Olasz Nagydíj;;29;0;McLaren;N;;Motor
+2002.09.29;Egyesült Államok Nagydíja;;50;0;McLaren;N;;Motor
+2002.10.13;Japán Nagydíj;3;53;4;McLaren;I;0;
+2003.03.09;Ausztrál Nagydíj;3;58;6;McLaren;I;0;
+2003.03.23;Malajziai Nagydíj;1;56;10;McLaren;I;0;
+2003.04.06;Brazil Nagydíj;2;54;8;McLaren;I;0;
+2003.04.20;San Marinói Nagydíj;2;62;8;McLaren;I;0;
+2003.05.04;Spanyol Nagydíj;;0;0;McLaren;N;;Ütközés
+2003.05.18;Osztrák Nagydíj;2;69;8;McLaren;I;0;
+2003.06.01;Monacói Nagydíj;2;78;8;McLaren;I;0;
+2003.06.15;Kanadai Nagydíj;6;70;3;McLaren;I;0;
+2003.06.29;Európai Nagydíj;;25;0;McLaren;N;;Motor
+2003.07.06;Francia Nagydíj;4;70;5;McLaren;I;0;
+2003.07.20;Brit Nagydíj;3;60;6;McLaren;I;0;
+2003.08.03;Német Nagydíj;;0;0;McLaren;N;;Baleset
+2003.08.24;Magyar Nagydíj;2;70;8;McLaren;I;0;
+2003.09.14;Olasz Nagydíj;4;53;5;McLaren;I;0;
+2003.09.28;Egyesült Államok Nagydíja;2;73;8;McLaren;I;0;
+2003.10.12;Japán Nagydíj;2;53;8;McLaren;I;0;
+2004.03.07;Ausztrál Nagydíj;;9;0;McLaren;N;;Motor
+2004.03.21;Malajziai Nagydíj;;40;0;McLaren;N;;Sebességváltó
+2004.04.04;Bahreini Nagydíj;;7;0;McLaren;N;;Motor
+2004.04.25;San Marinói Nagydíj;8;61;1;McLaren;I;1;
+2004.05.09;Spanyol Nagydíj;11;65;0;McLaren;I;1;
+2004.05.23;Monacói Nagydíj;;27;0;McLaren;N;;Pneumatika
+2004.05.30;Európai Nagydíj;;9;0;McLaren;N;;Motor
+2004.06.13;Kanadai Nagydíj;5;69;4;McLaren;I;1;
+2004.06.20;Egyesült Államok Nagydíja;6;72;3;McLaren;I;1;
+2004.07.04;Francia Nagydíj;7;70;2;McLaren;I;0;
+2004.07.11;Brit Nagydíj;2;60;8;McLaren;I;0;
+2004.07.25;Német Nagydíj;;13;0;McLaren;N;;Hátsó szárny
+2004.08.15;Magyar Nagydíj;;13;0;McLaren;N;;Elektromos
+2004.08.29;Belga Nagydíj;1;44;10;McLaren;I;0;
+2004.09.12;Olasz Nagydíj;;13;0;McLaren;N;;Motor
+2004.09.26;Kínai Nagydíj;3;56;6;McLaren;I;0;
+2004.10.10;Japán Nagydíj;6;53;3;McLaren;I;0;
+2004.10.24;Brazil Nagydíj;2;71;8;McLaren;I;0;
+2005.03.06;Ausztrál Nagydíj;8;57;1;McLaren;I;0;
+2005.03.20;Malajziai Nagydíj;9;56;0;McLaren;I;0;
+2005.04.03;Bahreini Nagydíj;3;57;6;McLaren;I;0;
+2005.04.24;San Marinói Nagydíj;;9;0;McLaren;N;;Hajtóműtengely
+2005.05.08;Spanyol Nagydíj;1;66;10;McLaren;I;0;
+2005.05.22;Monacói Nagydíj;1;78;10;McLaren;I;0;
+2005.05.29;Európai Nagydíj;11;58;0;McLaren;N;;Baleset
+2005.06.12;Kanadai Nagydíj;1;70;10;McLaren;I;0;
+2005.06.19;Egyesült Államok Nagydíja;;0;0;McLaren;N;;Visszalépett
+2005.07.03;Francia Nagydíj;2;70;8;McLaren;I;0;
+2005.07.10;Brit Nagydíj;3;60;6;McLaren;I;0;
+2005.07.24;Német Nagydíj;;32;0;McLaren;N;;Hidraulika
+2005.07.31;Magyar Nagydíj;1;70;10;McLaren;I;0;
+2005.08.21;Török Nagydíj;1;58;10;McLaren;I;0;
+2005.09.04;Olasz Nagydíj;4;53;5;McLaren;I;0;
+2005.09.11;Belga Nagydíj;1;44;10;McLaren;I;0;
+2005.09.25;Brazil Nagydíj;2;71;8;McLaren;I;0;
+2005.10.09;Japán Nagydíj;1;53;10;McLaren;I;0;
+2005.10.16;Kínai Nagydíj;2;56;8;McLaren;I;0;
+2006.03.12;Bahreini Nagydíj;3;57;6;McLaren;I;0;
+2006.03.19;Malajziai Nagydíj;;0;0;McLaren;N;;Baleset
+2006.04.02;Ausztrál Nagydíj;2;57;8;McLaren;I;0;
+2006.04.23;San Marinói Nagydíj;5;62;4;McLaren;I;0;
+2006.05.07;Európai Nagydíj;4;60;5;McLaren;I;0;
+2006.05.14;Spanyol Nagydíj;5;66;4;McLaren;I;0;
+2006.05.28;Monacói Nagydíj;;50;0;McLaren;N;;Hőpajzs tűz
+2006.06.11;Brit Nagydíj;3;60;6;McLaren;I;0;
+2006.06.25;Kanadai Nagydíj;3;70;6;McLaren;I;0;
+2006.07.02;Egyesült Államok Nagydíja;;0;0;McLaren;N;;Baleset
+2006.07.16;Francia Nagydíj;5;70;4;McLaren;I;0;
+2006.07.30;Német Nagydíj;3;67;6;McLaren;I;0;
+2006.08.06;Magyar Nagydíj;;25;0;McLaren;N;;Ütközés
+2006.08.27;Török Nagydíj;;1;0;McLaren;N;;Ütközés
+2006.09.10;Olasz Nagydíj;2;53;8;McLaren;I;0;
+2006.10.01;Kínai Nagydíj;;18;0;McLaren;N;;Gázkar
+2006.10.08;Japán Nagydíj;5;53;4;McLaren;I;0;
+2006.10.22;Brazil Nagydíj;5;71;4;McLaren;I;0;
+2007.03.18;Ausztrál Nagydíj;1;58;10;Ferrari;I;0;
+2007.04.08;Malajziai Nagydíj;3;56;6;Ferrari;I;0;
+2007.04.15;Bahreini Nagydíj;3;57;6;Ferrari;I;0;
+2007.05.13;Spanyol Nagydíj;;9;0;Ferrari;N;;Felfüggesztés
+2007.05.27;Monacói Nagydíj;8;77;1;Ferrari;I;1;
+2007.06.10;Kanadai Nagydíj;5;70;4;Ferrari;I;0;
+2007.06.17;Egyesült Államok Nagydíja;4;73;5;Ferrari;I;0;
+2007.07.01;Francia Nagydíj;1;70;10;Ferrari;I;0;
+2007.07.08;Brit Nagydíj;1;59;10;Ferrari;I;0;
+2007.07.22;Európai Nagydíj;;34;0;Ferrari;N;;Hidraulika
+2007.08.05;Magyar Nagydíj;2;70;8;Ferrari;I;0;
+2007.08.26;Török Nagydíj;2;58;8;Ferrari;I;0;
+2007.09.09;Olasz Nagydíj;3;53;6;Ferrari;I;0;
+2007.09.16;Belga Nagydíj;1;44;10;Ferrari;I;0;
+2007.09.30;Japán Nagydíj;3;67;6;Ferrari;I;0;
+2007.10.07;Kínai Nagydíj;1;56;10;Ferrari;I;0;
+2007.10.21;Brazil Nagydíj;1;71;10;Ferrari;I;0;
+2008.03.16;Ausztrál Nagydíj;8;53;1;Ferrari;N;;Motor
+2008.03.23;Malajziai Nagydíj;1;56;10;Ferrari;I;0;
+2008.04.06;Bahreini Nagydíj;2;57;8;Ferrari;I;0;
+2008.04.27;Spanyol Nagydíj;1;66;10;Ferrari;I;0;
+2008.05.11;Török Nagydíj;3;58;6;Ferrari;I;0;
+2008.05.25;Monacói Nagydíj;9;76;0;Ferrari;I;0;
+2008.06.08;Kanadai Nagydíj;;19;0;Ferrari;N;;Ütközés
+2008.06.22;Francia Nagydíj;2;70;8;Ferrari;I;0;
+2008.07.06;Brit Nagydíj;4;59;5;Ferrari;I;1;
+2008.07.20;Német Nagydíj;6;67;3;Ferrari;I;0;
+2008.08.03;Magyar Nagydíj;3;70;6;Ferrari;I;0;
+2008.08.24;Európai Nagydíj;;45;0;Ferrari;N;;Motor
+2008.09.07;Belga Nagydíj;18;42;0;Ferrari;N;;Kipördült
+2008.09.14;Olasz Nagydíj;9;53;0;Ferrari;I;0;
+2008.09.28;Szingapúri Nagydíj;15;57;0;Ferrari;N;;Baleset
+2008.10.12;Japán Nagydíj;3;67;6;Ferrari;I;0;
+2008.10.19;Kínai Nagydíj;3;56;6;Ferrari;I;0;
+2008.11.02;Brazil Nagydíj;3;71;6;Ferrari;I;0;
+2009.03.29;Ausztrál Nagydíj;15;55;0;Ferrari;N;;Differenciálmű
+2009.04.05;Malajziai Nagydíj;14;31;0;Ferrari;I;1;
+2009.04.19;Kínai Nagydíj;10;56;0;Ferrari;I;0;
+2009.04.26;Bahreini Nagydíj;6;57;3;Ferrari;I;0;
+2009.05.10;Spanyol Nagydíj;;17;0;Ferrari;N;;Hidraulika
+2009.05.24;Monacói Nagydíj;3;78;6;Ferrari;I;0;
+2009.06.07;Török Nagydíj;9;58;0;Ferrari;I;0;
+2009.06.21;Brit Nagydíj;8;60;1;Ferrari;I;0;
+2009.07.12;Német Nagydíj;;34;0;Ferrari;N;;Motor
+2009.07.26;Magyar Nagydíj;2;70;8;Ferrari;I;0;
+2009.08.23;Európai Nagydíj;3;57;6;Ferrari;I;0;
+2009.08.30;Belga Nagydíj;1;44;10;Ferrari;I;0;
+2009.09.13;Olasz Nagydíj;3;53;6;Ferrari;I;0;
+2009.09.27;Szingapúri Nagydíj;10;61;0;Ferrari;I;0;
+2009.10.04;Japán Nagydíj;4;53;5;Ferrari;I;0;
+2009.10.18;Brazil Nagydíj;6;71;3;Ferrari;I;0;
+2009.11.01;Abu-Dzabi Nagydíj;12;55;0;Ferrari;I;0;
+2012.03.18;Ausztrál Nagydíj;7;58;6;Lotus F1;I;0;
+2012.03.25;Malajziai Nagydíj;5;56;10;Lotus F1;I;0;
+2012.04.15;Kínai Nagydíj;14;56;0;Lotus F1;I;0;
+2012.04.22;Bahreini Nagydíj;2;57;18;Lotus F1;I;0;
+2012.05.13;Spanyol Nagydíj;3;66;15;Lotus F1;I;0;
+2012.05.27;Monacói Nagydíj;9;78;2;Lotus F1;I;0;
+2012.06.10;Kanadai Nagydíj;8;70;4;Lotus F1;I;0;
+2012.06.24;Európai Nagydíj;2;57;18;Lotus F1;I;0;
+2012.07.08;Brit Nagydíj;5;52;10;Lotus F1;I;0;
+2012.07.22;Német Nagydíj;3;67;15;Lotus F1;I;0;
+2012.07.29;Magyar Nagydíj;2;69;18;Lotus F1;I;0;
+2012.09.02;Belga Nagydíj;3;44;15;Lotus F1;I;0;
+2012.09.09;Olasz Nagydíj;5;53;10;Lotus F1;I;0;
+2012.09.23;Szingapúri Nagydíj;6;59;8;Lotus F1;I;0;
+2012.10.07;Japán Nagydíj;6;53;8;Lotus F1;I;0;
+2012.10.14;Koreai Nagydíj;5;55;10;Lotus F1;I;0;
+2012.10.28;Indiai Nagydíj;7;60;6;Lotus F1;I;0;
+2012.11.04;Abu-Dzabi Nagydíj;1;55;25;Lotus F1;I;0;
+2012.11.18;Egyesült Államok Nagydíja;6;56;8;Lotus F1;I;0;
+2012.11.25;Brazil Nagydíj;10;70;1;Lotus F1;I;1;
+2013.03.17;Ausztrál Nagydíj;1;58;25;Lotus F1;I;0;
+2013.03.24;Malajziai Nagydíj;7;56;6;Lotus F1;I;0;
+2013.04.14;Kínai Nagydíj;2;56;18;Lotus F1;I;0;
+2013.04.21;Bahreini Nagydíj;2;57;18;Lotus F1;I;0;
+2013.05.12;Spanyol Nagydíj;2;66;18;Lotus F1;I;0;
+2013.05.26;Monacói Nagydíj;10;78;1;Lotus F1;I;0;
+2013.06.09;Kanadai Nagydíj;9;69;2;Lotus F1;I;1;
+2013.06.30;Brit Nagydíj;5;52;10;Lotus F1;I;0;
+2013.07.07;Német Nagydíj;2;60;18;Lotus F1;I;0;
+2013.07.28;Magyar Nagydíj;2;70;18;Lotus F1;I;0;
+2013.08.25;Belga Nagydíj;;25;0;Lotus F1;N;;Fékek
+2013.09.08;Olasz Nagydíj;11;53;0;Lotus F1;I;0;
+2013.09.22;Szingapúri Nagydíj;3;61;15;Lotus F1;I;0;
+2013.10.06;Koreai Nagydíj;2;55;18;Lotus F1;I;0;
+2013.10.13;Japán Nagydíj;5;53;10;Lotus F1;I;0;
+2013.10.27;Indiai Nagydíj;7;60;6;Lotus F1;I;0;
+2013.11.03;Abu-Dzabi Nagydíj;;0;0;Lotus F1;N;;Baleset
+2014.03.16;Ausztrál Nagydíj;7;57;6;Ferrari;I;0;
+2014.03.30;Malajziai Nagydíj;12;55;0;Ferrari;I;1;
+2014.04.06;Bahreini Nagydíj;10;57;1;Ferrari;I;0;
+2014.04.20;Kínai Nagydíj;8;54;4;Ferrari;I;0;
+2014.05.11;Spanyol Nagydíj;7;65;6;Ferrari;I;1;
+2014.05.25;Monacói Nagydíj;12;77;0;Ferrari;I;1;
+2014.06.08;Kanadai Nagydíj;10;70;1;Ferrari;I;0;
+2014.06.22;Osztrák Nagydíj;10;71;1;Ferrari;I;0;
+2014.07.06;Brit Nagydíj;;0;0;Ferrari;N;;Ütközés
+2014.07.20;Német Nagydíj;11;66;0;Ferrari;I;1;
+2014.07.27;Magyar Nagydíj;6;70;8;Ferrari;I;0;
+2014.08.24;Belga Nagydíj;4;44;12;Ferrari;I;0;
+2014.09.07;Olasz Nagydíj;9;53;2;Ferrari;I;0;
+2014.09.21;Szingapúri Nagydíj;8;60;4;Ferrari;I;0;
+2014.10.05;Japán Nagydíj;12;43;0;Ferrari;I;1;
+2014.10.12;Orosz Nagydíj;9;53;2;Ferrari;I;0;
+2014.11.02;Egyesült Államok Nagydíja;13;55;0;Ferrari;I;1;
+2014.11.09;Brazil Nagydíj;7;71;6;Ferrari;I;0;
+2014.11.23;Abu-Dzabi Nagydíj;10;55;2;Ferrari;I;0;
+2015.03.15;Ausztrál Nagydíj;;40;0;Ferrari;N;;Kerék
+2015.03.29;Malajziai Nagydíj;4;56;12;Ferrari;I;0;
+2015.04.12;Kínai Nagydíj;4;56;12;Ferrari;I;0;
+2015.04.19;Bahreini Nagydíj;2;57;18;Ferrari;I;0;
+2015.05.10;Spanyol Nagydíj;5;66;10;Ferrari;I;0;
+2015.05.24;Monacói Nagydíj;6;78;8;Ferrari;I;0;
+2015.06.07;Kanadai Nagydíj;4;70;12;Ferrari;I;0;
+2015.06.21;Osztrák Nagydíj;;0;0;Ferrari;N;;Ütközés
+2015.07.05;Brit Nagydíj;8;51;4;Ferrari;I;1;
+2015.07.26;Magyar Nagydíj;;55;0;Ferrari;N;;Teljesítményegység
+2015.08.23;Belga Nagydíj;7;43;6;Ferrari;I;0;
+2015.09.06;Olasz Nagydíj;5;53;10;Ferrari;I;0;
+2015.09.20;Szingapúri Nagydíj;3;61;15;Ferrari;I;0;
+2015.09.27;Japán Nagydíj;4;53;12;Ferrari;I;0;
+2015.10.11;Orosz Nagydíj;8;53;4;Ferrari;I;0;
+2015.10.25;Egyesült Államok Nagydíja;;25;0;Ferrari;N;;Fékcsatorna
+2015.11.01;Mexikói Nagydíj;;21;0;Ferrari;N;;Ütközés
+2015.11.15;Brazil Nagydíj;4;71;12;Ferrari;I;0;
+2015.11.29;Abu-Dzabi Nagydíj;3;55;15;Ferrari;I;0;
+2016.03.20;Ausztrál Nagydíj;;21;0;Ferrari;N;;Motor
+2016.04.03;Bahreini Nagydíj;2;57;18;Ferrari;I;0;
+2016.04.17;Kínai Nagydíj;5;56;10;Ferrari;I;0;
+2016.05.01;Orosz Nagydíj;3;53;15;Ferrari;I;0;
+2016.05.15;Spanyol Nagydíj;2;66;18;Ferrari;I;0;
+2016.05.29;Monacói Nagydíj;;10;0;Ferrari;N;;Baleset
+2016.06.12;Kanadai Nagydíj;6;70;8;Ferrari;I;0;
+2016.06.19;Európai Nagydíj;4;51;12;Ferrari;I;0;
+2016.07.03;Osztrák Nagydíj;3;71;15;Ferrari;I;0;
+2016.07.10;Brit Nagydíj;5;52;10;Ferrari;I;0;
+2016.07.24;Magyar Nagydíj;6;70;8;Ferrari;I;0;
+2016.07.31;Német Nagydíj;6;67;8;Ferrari;I;0;
+2016.08.28;Belga Nagydíj;9;44;2;Ferrari;I;0;
+2016.09.04;Olasz Nagydíj;4;53;12;Ferrari;I;0;
+2016.09.18;Szingapúri Nagydíj;4;61;12;Ferrari;I;0;
+2016.10.02;Malajziai Nagydíj;4;56;12;Ferrari;I;0;
+2016.10.09;Japán Nagydíj;5;53;10;Ferrari;I;0;
+2016.10.23;Egyesült Államok Nagydíja;;38;0;Ferrari;N;;Kerék
+2016.10.30;Mexikói Nagydíj;6;71;8;Ferrari;I;0;
+2016.11.13;Brazil Nagydíj;;19;0;Ferrari;N;;Ütközés
+2016.11.27;Abu-Dzabi Nagydíj;6;55;8;Ferrari;I;0;
+2017.03.26;Ausztrál Nagydíj;4;57;12;Ferrari;I;0;
+2017.04.09;Kínai Nagydíj;5;56;10;Ferrari;I;0;
+2017.04.16;Bahreini Nagydíj;4;57;12;Ferrari;I;0;
+2017.04.30;Orosz Nagydíj;3;52;15;Ferrari;I;0;
+2017.05.14;Spanyol Nagydíj;;0;0;Ferrari;N;;Ütközés okozta sérülés
+2017.05.28;Monacói Nagydíj;2;78;18;Ferrari;I;0;
+2017.06.11;Kanadai Nagydíj;7;70;6;Ferrari;I;0;
+2017.06.25;Azerbajdzsáni Nagydíj;14;46;0;Ferrari;N;;Víznyomás
+2017.07.09;Osztrák Nagydíj;5;71;10;Ferrari;I;0;
+2017.07.16;Brit Nagydíj;3;51;15;Ferrari;I;0;
+2017.07.30;Magyar Nagydíj;2;70;18;Ferrari;I;0;
+2017.08.27;Belga Nagydíj;4;44;12;Ferrari;I;0;
+2017.09.03;Olasz Nagydíj;5;53;10;Ferrari;I;0;
+2017.09.17;Szingapúri Nagydíj;;0;0;Ferrari;N;;Baleset
+2017.10.01;Malajziai Nagydíj;;0;0;Ferrari;N;;Akkumulátor
+2017.10.08;Japán Nagydíj;5;53;10;Ferrari;I;0;
+2017.10.22;Egyesült Államok Nagydíja;3;56;15;Ferrari;I;0;
+2017.10.29;Mexikói Nagydíj;3;71;15;Ferrari;I;0;
+2017.11.12;Brazil Nagydíj;3;71;15;Ferrari;I;0;
+2017.11.26;Abu-Dzabi Nagydíj;4;55;12;Ferrari;I;0;
+2018.03.25;Ausztrál Nagydíj;3;58;15;Ferrari;I;0;
+2018.04.08;Bahreini Nagydíj;;35;0;Ferrari;N;;Kerék
+2018.04.15;Kínai Nagydíj;3;56;15;Ferrari;I;0;
+2018.04.29;Azerbajdzsáni Nagydíj;2;51;18;Ferrari;I;0;
+2018.05.13;Spanyol Nagydíj;;25;0;Ferrari;N;;Turbo
+2018.05.27;Monacói Nagydíj;4;78;12;Ferrari;I;0;
+2018.06.10;Kanadai Nagydíj;6;68;8;Ferrari;I;0;
+2018.06.24;Francia Nagydíj;3;53;15;Ferrari;I;0;
+2018.07.01;Osztrák Nagydíj;2;71;18;Ferrari;I;0;
+2018.07.08;Brit Nagydíj;3;52;15;Ferrari;I;0;
+2018.07.22;Német Nagydíj;3;67;15;Ferrari;I;0;
+2018.07.29;Magyar Nagydíj;3;70;15;Ferrari;I;0;
+2018.08.26;Belga Nagydíj;;8;0;Ferrari;N;;Fékek
+2018.09.02;Olasz Nagydíj;2;53;18;Ferrari;I;0;
+2018.09.16;Szingapúri Nagydíj;5;61;10;Ferrari;I;0;
+2018.09.30;Orosz Nagydíj;4;53;12;Ferrari;I;0;
+2018.10.07;Japán Nagydíj;5;53;10;Ferrari;I;0;
+2018.10.21;Egyesült Államok Nagydíja;1;56;25;Ferrari;I;0;
+2018.10.28;Mexikói Nagydíj;3;71;15;Ferrari;I;0;
+2018.11.11;Brazil Nagydíj;3;71;15;Ferrari;I;0;
+2018.11.25;Abu-Dzabi Nagydíj;;6;0;Ferrari;N;;Teljesítményveszteség
+2019.03.17;Ausztrál Nagydíj;8;57;4;Alfa Romeo;I;1;
+2019.03.31;Bahreini Nagydíj;7;57;6;Alfa Romeo;I;0;
+2019.04.14;Kínai Nagydíj;9;55;2;Alfa Romeo;I;1;
+2019.04.28;Azerbajdzsáni Nagydíj;10;50;1;Alfa Romeo;I;1;
+2019.05.12;Spanyol Nagydíj;14;66;0;Alfa Romeo;I;0;
+2019.05.26;Monacói Nagydíj;17;77;0;Alfa Romeo;I;1;
+2019.06.09;Kanadai Nagydíj;15;69;0;Alfa Romeo;I;1;
+2019.06.23;Francia Nagydíj;7;52;6;Alfa Romeo;I;1;
+2019.06.30;Osztrák Nagydíj;9;70;2;Alfa Romeo;I;1;
+2019.07.14;Brit Nagydíj;8;52;4;Alfa Romeo;I;0;
+2019.07.28;Német Nagydíj;12;64;0;Alfa Romeo;I;0;
+2019.08.04;Magyar Nagydíj;7;69;6;Alfa Romeo;I;1;
+2019.09.01;Belga Nagydíj;16;43;0;Alfa Romeo;I;1;
+2019.09.08;Olasz Nagydíj;15;52;0;Alfa Romeo;I;1;
+2019.09.22;Szingapúri Nagydíj;;49;0;Alfa Romeo;N;;Ütközés
