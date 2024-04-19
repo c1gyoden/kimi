@@ -24,3 +24,16 @@ print('4. feladat: Magyar Nagydíj helyezései')
 for e in eredmenyek:
     if e.celba == "I" and e.nagydij == "Magyar Nagydíj":
         print(f'{e.datum}.: {e.hely}. hely')
+
+print('5. feladat: Hibastatisztika')
+hibastat = {}
+for e in eredmenyek:
+    if e.celba == "N":
+        if e.hiba in hibastat.keys():
+            hibastat[e.hiba] += 1
+        else:
+            hibastat[e.hiba] = 1
+
+for k,v in hibastat.items():
+    if v > 1:
+        print(f'{k}: {v}')
