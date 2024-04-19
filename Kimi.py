@@ -55,7 +55,7 @@ html.write('<body>\n')
 html.write('<h1>Kimi Räikkönen</h1>\n')
 html.write('<table><tbody>')
 for e in eredmenyek:
-    html.write(f'<tr>\n<td>{e.datum}</td>\n<td>{e.nagydij}</td>\n<td>{e.hely}</td>\n</tr>\n')
+    html.write(f'<tr>\n<td>{e.datum.split('.')[0]}</td>\n<td>{e.nagydij}</td>\n<td>{e.hely}</td>\n</tr>\n')
 
 html.write('</tbody></table>')
 html.write('</body>\n')
