@@ -37,3 +37,24 @@ for e in eredmenyek:
 for k,v in hibastat.items():
     if v > 1:
         print(f'{k}: {v}')
+
+print('8. feladat: kimi.html')
+html = open('kimi.html', 'wt', encoding='utf-8')
+
+html.write('<!DOCTYPE html>\n')
+html.write('<html lang="hu">\n')
+html.write('<head>\n')
+html.write('<meta charset="UTF-8">\n')
+html.write('<meta name="viewport" content="width=device-width, initial-scale=1.0">\n')
+html.write('<title>Kimi Räikkönen</title>\n')
+html.write('</head>\n')
+html.write('<body>\n')
+html.write('<h1>Kimi Räikkönen</h1>\n')
+html.write('<table><tbody>')
+for e in eredmenyek:
+    html.write(f'<tr><td>{e.datum}</td><td>{e.nagydij}</td><td>{e.hely}</td></tr>')
+
+html.write('</tbody></table>')
+html.write('</body>\n')
+html.write('</html>\n')
+html.close()
