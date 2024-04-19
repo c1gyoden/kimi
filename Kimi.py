@@ -23,7 +23,7 @@ print('3. feladat:', len(eredmenyek))
 print('4. feladat: Magyar Nagydíj helyezései')
 for e in eredmenyek:
     if e.celba == "I" and e.nagydij == "Magyar Nagydíj":
-        print(f'{e.datum}.: {e.hely}. hely')
+        print(f'\t{e.datum}.: {e.hely}. hely')
 
 print('5. feladat: Hibastatisztika')
 hibastat = {}
@@ -36,7 +36,7 @@ for e in eredmenyek:
 
 for k,v in hibastat.items():
     if v > 1:
-        print(f'{k}: {v}')
+        print(f'\t{k}: {v}')
 
 evszam = int(input("6. feladat: Évszám: "))
 versenyek = []
